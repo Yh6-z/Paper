@@ -1,0 +1,5 @@
+headline,Concreteness_Score,Numeric_Structure_Score,Suspense_Question_Score,Pronoun_Usage,prob_negative,prob_neutral,prob_positive,sentiment,length,length_num
+these 7 habits could change your life.,0.55665,0.0952523809523809,0.0107175,Second,0.0229097586125135,0.488945722579956,0.4881445169448852,The headline has a neutral tone,The headline contains 7 words,7
+what happens when you drink coffee daily?,0.64035,0.0,0.035725,Second,0.0889427587389946,0.8745846748352051,0.0364726074039936,The headline has a neutral tone,The headline contains 7 words,7
+the tragic truth behind celebrity deaths.,0.3596428571428571,0.0,0.03334,,0.8332812190055847,0.1604639887809753,0.0062548294663429,The headline has a negtive tone,The headline contains 6 words,6
+try this 10-second trick for better sleep.,0.290475,0.0952523809523809,0.0592975,,0.0142188658937811,0.5782586336135864,0.4075225591659546,The headline has a neutral tone,The headline contains 7 words,7
