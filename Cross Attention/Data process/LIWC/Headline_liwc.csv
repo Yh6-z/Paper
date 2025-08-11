@@ -1,0 +1,6 @@
+test_id,headline,CTR,Concreteness_Score,Numeric_Structure_Score,Suspense_Question_Score,Pronoun_Usage
+0,darwin nunez joins al hilal: liverpool sell striker to saudi pro league club in deal worth up to £56.6m,0.02,0.3911363636363636,0.05000000000000001,0.010000000000000002,None
+0,"instead of sanctions, donald trump announces a summit with russia.",0.02,0.3358333333333333,0.0,0.0,None
+0,machine gun kelly said he sometimes feels lightheaded because he only eats 'a couple times a week��.,0.02,0.4656315789473684,0.0392,0.03722263157894737,Third
+0,how flossing a mouse��s teeth could lead to a new kind of vaccine.,0.02,0.29487142857142856,0.0,0.030352499999999998,None
+0,"kfc parent company: ai is driving ��marketing revolution, not just evolution��.",0.02,0.5599357142857143,0.0,0.0,None
