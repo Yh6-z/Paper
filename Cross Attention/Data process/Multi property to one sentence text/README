@@ -1,1 +1,4 @@
 
+The folder named "Multi property to one sentence text": 
+2.py, 3.py, ....,6.py are used to merge text.
+eg: The headline uses specific language + The headline contains no numerical content = The headline uses specific language, contains no numerical content
