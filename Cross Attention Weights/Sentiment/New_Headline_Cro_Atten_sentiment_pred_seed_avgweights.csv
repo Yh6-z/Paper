@@ -1,0 +1,26 @@
+Sentiment_Label,Length_Label,test_id,headline,CTR,Concreteness_Score,Numeric_Structure_Score,Suspense_Question_Score,Pronoun_Usage,Concreteness_Label,Numeric_Label,Suspense_Label,Pronoun_Label,pred_CTR,cls_attn_weights,attn_mask_property
+The headline has a neutral tone,The headline contains 19 words,0,darwin nunez joins al hilal: liverpool sell striker to saudi pro league club in deal worth up to £56.6m,0.02,0.3911363636363636,0.05,0.01,,The headline uses semi-abstract language,The headline contains a lot of numerical content.,The headline do not use suspense,The headline do not use pronouns,0.010831628,"[[[0.00565086 0.00591021 0.0061087  0.00565867 0.00565414 0.00598994
+   0.00723234 0.00514377]]]","[1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]"
+The headline has a neutral tone,The headline contains 10 words,0,"instead of sanctions, donald trump announces a summit with russia.",0.02,0.3358333333333333,0.0,0.0,,The headline uses abstract language,The headline contains no numerical content,The headline do not use suspense,The headline do not use pronouns,0.0096278,"[[[0.00556749 0.00586823 0.00604897 0.00557571 0.00553935 0.00592622
+   0.00712968 0.00502689]]]","[1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]"
+The headline has a negtive tone,The headline contains 17 words,0,machine gun kelly said he sometimes feels lightheaded because he only eats 'a couple times a week��.,0.02,0.4656315789473684,0.0392,0.0372226315789473,Third,The headline uses semi-abstract language,The headline contains a lot of numerical content.,The headline uses a lot of suspense,The headline uses 3nd-person pronouns,0.011793461,"[[[0.00579593 0.0059567  0.00607709 0.00562965 0.00562249 0.00578779
+   0.00555027 0.00569639 0.00713754 0.00527471]]]","[1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]"
+The headline has a negtive tone,The headline contains 13 words,0,how flossing a mouse��s teeth could lead to a new kind of vaccine.,0.02,0.2948714285714285,0.0,0.0303524999999999,,The headline uses abstract language,The headline contains no numerical content,The headline uses a lot of suspense,The headline do not use pronouns,0.005328756,"[[[0.00569165 0.00595599 0.00607874 0.0056433  0.005636   0.00572949
+   0.00555191 0.00567016 0.00707193 0.00525673]]]","[1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]"
+The headline has a neutral tone,The headline contains 11 words,0,"kfc parent company: ai is driving ��marketing revolution, not just evolution��.",0.02,0.5599357142857143,0.0,0.0,,The headline uses specific language,The headline contains no numerical content,The headline do not use suspense,The headline do not use pronouns,0.00640459,"[[[0.00564162 0.00586335 0.00603118 0.0055546  0.00552169 0.005882
+   0.00718951 0.00507586]]]","[1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]"
